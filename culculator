@@ -10,5 +10,16 @@ fgkmdb,c
 dghbvckh,nmnb,
 yrtfgvm
 dsjgnmb kjsdban kjasbhdmn ajsdb m,
+
+
 var_1: 15 var_2: 67
 var_1: 67 var_2: 15
+
+
+x = 1
+y = 35656222554887711
+z = -3255522
+
+print(type(x))
+print(type(y))
+print(type(z))
